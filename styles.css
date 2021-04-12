@@ -8,16 +8,6 @@ body {
   color: black;
   text-align: center;
 }
-    
-.article {
-  font-size: 50px;
-  text-transform: uppercase;
-}
-
-.clockface {
- text-align: center;
- 
-}
 
 .field{
   display: inline-block;
